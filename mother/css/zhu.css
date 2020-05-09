@@ -1,0 +1,142 @@
+* {
+margin: 0;
+padding: 0;
+}
+.dh{
+width: 800px;
+height: 800px;
+background-image:url(../img/timg.jpg);
+background-repeat: no-repeat;
+margin: 0px auto;
+}
+.wrap {
+width: 1000px;
+margin: 0 auto;
+overflow: hidden;
+zoom: 1;
+}
+.left {
+float: left;
+width: 800px;
+height: 100px;
+overflow: hidden;
+}
+.right {
+float: right;
+width: 200px;
+height: 500px;
+background-color: #ddd;
+}
+
+p {
+font: 30px/500px "Microsoft Yahei";
+text-align: center;
+}
+
+.hd {
+height: 100px;
+background-color: #0ff;
+}
+
+.bd {
+overflow: hidden;
+zoom: 1;
+}
+
+.ft {
+height: 100px;
+background-color: #0ff;
+}
+
+
+.center{
+width: 800px;
+height: 600px;
+background: pink;
+text-align: center;
+}
+.on{
+background: yellow;
+height: 200px;
+}
+.down{
+height: 300px;
+background: mediumpurple;
+}
+.liukaile_xia{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;
+}
+.lidongb_xia{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;	
+}
+.lixuemei_xia{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;		
+}
+.zhaobaiyu_xia{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;
+}
+.tongshuaishuai_xia{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;	
+}
+.tanhuan_xia{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;
+}
+.touxiang{
+width: 800px;
+height:82px;
+/* background: red;	 */
+}
+.liukaile{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;
+}
+.lidongb{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;	
+}
+.lixuemei{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;		
+}
+.zhaobaiyu{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;
+}
+.tongshuaishuai{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;	
+}
+.tanhuan{
+width: 100px;
+height: 50px;
+/* background: green; */
+float: right;
+}
